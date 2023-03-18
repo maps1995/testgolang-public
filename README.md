@@ -1,4 +1,4 @@
-## Hello, OpenShift! ##
+irrrirrr, OpenShift! ##
 
 A sample app that is built using the [S2I golang builder](https://github.com/sclorg/golang-container).
 
