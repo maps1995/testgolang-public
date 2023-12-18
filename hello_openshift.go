@@ -39,4 +39,3 @@ func main() {
 	go listenAndServe(port)
 
 	select {}
-}
